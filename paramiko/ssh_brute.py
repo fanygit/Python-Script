@@ -24,7 +24,7 @@ class ssh_brute(object):
         exit()
 
     def getpassword(self):
-        dict = "C:/Users/root/Desktop/dic.txt"  #×ÖµäÂ·¾¶
+        dict = "C:/Users/root/Desktop/dic.txt"  #Ã—Ã–ÂµÃ¤Ã‚Â·Â¾Â¶
         with open(dict) as f:
             password = f.readlines()
             return password
@@ -50,7 +50,7 @@ def parse():
 
 
 def main():
-    #host, port = parse() //ÃüÁîĞĞ½âÎö
+    #host, port = parse() //ÃƒÃ¼ÃÃ®ÃÃÂ½Ã¢ÃÃ¶
     host = '172.20.101.101'
     port = '22'
     ssh_brute(host, port).main()
