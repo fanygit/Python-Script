@@ -15,7 +15,11 @@ windows10 下正常运行
 ![结果图](http://qiniu.tencentwl.cn/[windows]结果图.png)
 
 ubuntu18.04 下正常运行
-
+![第一步](http://qiniu.tencentwl.cn/[ubuntu]第一步.png)
+![第二步](http://qiniu.tencentwl.cn/[ubuntu]第二步.png)
+![第三步](http://qiniu.tencentwl.cn/[ubuntu]第三步.png)
+结果图：
+![结果图](http://qiniu.tencentwl.cn/[ubuntu]结果图.png)
 
 #### 注意事项
 >1 . 保持网络畅通 会影响爬取速度
