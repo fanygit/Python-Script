@@ -10,7 +10,7 @@ python3.6+
 windows10 下正常运行
 ![第一步](http://qiniu.tencentwl.cn/[windows]第一步.png)
 ![第二步](http://qiniu.tencentwl.cn/[ubuntu]第二步.png)
-![第三步](http://qiniu.tencentwl.cn/[windows]第二步.png)
+![第三步](http://qiniu.tencentwl.cn/[windows]第三步.png)
 结果图：
 ![结果图](http://qiniu.tencentwl.cn/[windows]结果图.png)
 
