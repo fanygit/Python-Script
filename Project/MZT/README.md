@@ -8,7 +8,7 @@ python3.6+
 
 
 windows10 下正常运行
-
+![第一步]("http://qiniu.tencentwl.cn/[windows]第一步.png")
 ubuntu18.04 下正常运行
 
 
