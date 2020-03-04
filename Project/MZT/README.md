@@ -6,24 +6,24 @@
 
 python3.6+
 
-第一步:
+
 
 #### windows10 下正常运行
 
 ![第一步](http://qiniu.tencentwl.cn/%5Bwindows%5D%E7%AC%AC%E4%B8%80%E6%AD%A5.png)
-第二步:
+
 ![第二步](http://qiniu.tencentwl.cn/%5Bwindwos%5D%E7%AC%AC%E4%BA%8C%E6%AD%A5.png)
-第三步：
+
 ![第三步](http://qiniu.tencentwl.cn/%5Bwindows%5D%E7%AC%AC%E4%B8%89%E6%AD%A5.png)
 结果图：
 ![结果图](http://qiniu.tencentwl.cn/%5Bwindows%5D%E7%BB%93%E6%9E%9C%E5%9B%BE.png)
 
 #### ubuntu18.04 下正常运行
-第一步:
+
 ![第一步](http://qiniu.tencentwl.cn/[ubuntu]第一步.png)
-第二步:
+
 ![第二步](http://qiniu.tencentwl.cn/[ubuntu]第二步.png)
-第三步：
+
 ![第三步](http://qiniu.tencentwl.cn/[ubuntu]第三步.png)
 结果图：
 ![结果图](http://qiniu.tencentwl.cn/[ubuntu]结果图.png)
