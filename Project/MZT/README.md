@@ -12,7 +12,7 @@ python3.6+
 第一步:
 ![第一步](http://qiniu.tencentwl.cn/[windows]第一步.png)
 第二步:
-![第二步](http://qiniu.tencentwl.cn/[windows]第二步.png)
+![第二步](http://qiniu.tencentwl.cn/%5Bwindwos%5D%E7%AC%AC%E4%BA%8C%E6%AD%A5.png)
 第三步：
 ![第三步](http://qiniu.tencentwl.cn/[windows]第三步.png)
 结果图：
