@@ -6,10 +6,10 @@
 
 python3.6+
 
-
+第一步:
 
 #### windows10 下正常运行
-第一步:
+
 ![第一步](http://qiniu.tencentwl.cn/%5Bwindows%5D%E7%AC%AC%E4%B8%80%E6%AD%A5.png)
 第二步:
 ![第二步](http://qiniu.tencentwl.cn/%5Bwindwos%5D%E7%AC%AC%E4%BA%8C%E6%AD%A5.png)
