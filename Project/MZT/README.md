@@ -30,29 +30,30 @@ python3.6+
 
 #### 操作说明
 main.py（无多线程）(供研究用)
-第一步：
+**第一步：**
 python3 main.py save_page_url
 > 获取页面缩略图url
 
-第二步：
+**第二步：**
 python3 main.py save_img_url
 > 获取页面缩略图里的图片rul
 
-第三步：
+**第三步：**
 python3 main.py save_img_jpg -p [路径]
 > 获取图片内容并且保存到文件夹 需要指定路径
 
 
-main_thread.py (多线程)
-> 注意：不指定线程数 默认为25  
-第一步：
+**main_thread.py (多线程)**
+**注意：不指定线程数 默认为25 ** 
+
+**第一步：**
 python3 main.py save_page_url -t [线程数]
 > 获取页面缩略图url
 
-第二步：
+**第二步：**
 python3 main.py save_img_url -t [线程数]
 > 获取页面缩略图里的图片rul
 
-第三步：
+**第三步：**
 python3 main.py save_img_jpg -p [路径] -t [线程数]
 > 获取图片内容并且保存到文件夹 需要指定路径
